@@ -26,14 +26,15 @@ Cuento con una diplomatura en análisis de datos, y busco combinar mi experienci
 
 <p align="left">
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R" width="40" height="40"/>
+    <img style="margin-right: 15px;" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R" width="40" height="40"/>
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+    <img style="margin-right: 15px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
   <a href="https://en.wikipedia.org/wiki/Data_warehouse" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/ios-filled/50/000000/database.png" alt="Database" width="40" height="40"/>
+    <img src="https://img.icons8.com/ios-filled/50/000000/database.png" alt="Data Warehouse" width="40" height="40"/>
   </a>
 </p>
+
 
 
