@@ -8,7 +8,6 @@
 Economista 📊 con curiosidad por el mundo de la programación y el análisis de datos.  
 Actualmente mejorando y afianzando mis conocimientos en **R**, **Python**, y herramientas de análisis de datos.
 
-Me interesa especialmente la intersección entre economía, datos y tecnología.  
 Cuento con una diplomatura en análisis de datos, y busco combinar mi experiencia previa con nuevas tecnologías para potenciar mi desarrollo profesional 💻✨
 
 ---
@@ -32,5 +31,9 @@ Cuento con una diplomatura en análisis de datos, y busco combinar mi experienci
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
+  <a href="https://en.wikipedia.org/wiki/Data_warehouse" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/ios-filled/50/000000/database.png" alt="Database" width="40" height="40"/>
+  </a>
 </p>
+
 
