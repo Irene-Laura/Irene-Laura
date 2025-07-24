@@ -12,6 +12,15 @@ Cuento con una diplomatura en análisis de datos, y busco combinar mi experienci
 
 ---
 
+## 🌍 Idiomas
+
+- Español (nativo)  
+- Inglés (avanzado)  
+- Portugués (avanzado)
+---
+
+
+
 ## 🌐 Contacto
 
 <p align="left">
